@@ -9,7 +9,7 @@ To link a visitor:
         Authenticate a user in your Login project by one of the following requests:
         <ul>
             <li>authentication via username and password (<a href="https://developers.xsolla.com/login-api/jwt/auth-by-username-and-password">JWT</a> and <a href="https://developers.xsolla.com/login-api/oauth-20/oauth-20-auth-by-username-and-password">OAuth 2.0</a>).</li>
-            <li>authentication via social networks (<a href="https://developers.xsolla.com/login-api/oauth-20/oauth-20-auth-by-username-and-password">JWT</a> and <a href="https://developers.xsolla.com/login-api/oauth-20/oauth-20-auth-via-social-network">OAuth 2.0</a>).</li>
+            <li>authentication via social networks (<a href="https://developers.xsolla.com/login-api/jwt/jwt-auth-via-social-network/">JWT</a> and <a href="https://developers.xsolla.com/login-api/oauth-20/oauth-20-auth-via-social-network">OAuth 2.0</a>).</li>
         </ul>
     </li>
     <li>Generate a Zendesk JWT. </li>
